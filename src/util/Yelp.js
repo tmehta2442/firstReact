@@ -1,4 +1,4 @@
-const apiKey = '';
+const apiKey = 'QF_HyTbjXkrmUb9sWBxW33gntOljPQhrDyWVjQQ_gZieK4h-tC2qjlhWVIQJN4fHcefKQw-9j_G3r-31CfRIcTJW7tY9t7Snx8JuINFhj0dOqGQhyx2F8O96msRGWnYx';
 
 const Yelp = {
   search(term, location, sortBy) {
@@ -27,5 +27,4 @@ const Yelp = {
   }
 };
 
-console.log(Yelp);
 export default Yelp;
